@@ -1,0 +1,7 @@
+# Market data and calculations
+yfinance==1.5.2
+pandas>=3.0,<3.1
+numpy>=2.5,<2.6
+
+# Browser interface
+streamlit==1.61.0
